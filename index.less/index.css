@@ -397,3 +397,8 @@ input[type=submit]:hover {
   font-size: 5rem;
   text-align: center;
 }
+#about-intro {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+}
